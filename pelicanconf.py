@@ -1,5 +1,5 @@
 AUTHOR = 'ddominguezh'
-SITENAME = 'myblog'
+SITENAME = 'miblog'
 SITEURL = "https://blog.ddominguezh.es"
 
 PATH = "content"
