@@ -1,4 +1,5 @@
-Title: Mi Primer Artículo
-Date: 2024-01-07
+Title: My First Review
+Date: 2010-12-03 10:20
+Category: Review
 
-¡Hola, este es mi primer artículo en Pelican
+Following is a review of my favorite mechanical keyboard.
